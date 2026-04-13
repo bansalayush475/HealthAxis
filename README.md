@@ -94,11 +94,3 @@ The project follows a **Layered Architecture**:
 **Nayyum**
 
 ---
-
-## 📈 Future Enhancements
-- 💳 Payment Gateway Integration  
-- 📩 Email/SMS Notifications  
-- 🤖 AI-based recommendations  
-- 📱 Mobile Application  
-
----
