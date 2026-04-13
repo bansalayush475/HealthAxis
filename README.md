@@ -25,8 +25,7 @@ Build Tool: Maven
 Frontend: HTML, CSS, Thymeleaf
 Version Control: Git & GitHub
 Team Members
-Gurneet(2310992124)– Backend Developer
-Mishika Garg(2310992153)– Database Manager
-Mahie(2310992140) –Frontend Developer & Testing
+Gurneet(2310992124)– Backend Developer & Database Manager
+Mishika Garg(2310992153)– Frontend Developer & Testing
 Project Guide –NAYYUM
 
